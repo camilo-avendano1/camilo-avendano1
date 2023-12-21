@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan camilo avendaño rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan camilo avendaño rodriguez" height="30" width="40" /></a>
-<a href="https://discord.gg/oshino_milo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oshino_milo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-camilo-avenda%c3%b1o-rodriguez-488484233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-camilo-avenda%c3%b1o-rodriguez-488484233/" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/FVDBJpVf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FVDBJpVf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
