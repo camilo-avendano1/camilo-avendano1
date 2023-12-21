@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer and data analist from Colombia</h3>
 
 - 🔭 I’m currently working at the University of Antioquia as a programming assistant for the Department of Support Resources and Informatics. **CAI**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
