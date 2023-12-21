@@ -2,7 +2,11 @@
 <h3 align="center">A passionate backend developer and data analist from Colombia</h3>
 
 - 🔭 I’m currently working at the University of Antioquia as a programming assistant for the Department of Support Resources and Informatics. **CAI**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/juan camilo avendaño rodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan camilo avendaño rodriguez" height="30" width="40" /></a>
+<a href="https://discord.gg/oshino_milo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oshino_milo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
