@@ -11,9 +11,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-around;">
 
-<table>
+<table style="margin-right: 10px;">
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-<table>
+<table style="margin-right: 10px;">
   <tr>
     <th>Name</th>
     <th>Type</th>
@@ -59,7 +59,7 @@
   </tr>
 </table>
 
-<table>
+<table style="margin-right: 10px;">
   <tr>
     <th>Name</th>
     <th>Type</th>
