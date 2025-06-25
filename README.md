@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camilo</h1>
 <h3 align="center">A Passionate Backend Developer and Data Analyst from Colombia</h3>
 
-- 🔭 I’m currently working as a Cybersecurity Analyst at Bancolombia. I’m also studying and preparing to take the Certified Penetration Testing Specialist (CTPS) certification with HackTheBox.
+- 🔭 I’m currently working as a Cybersecurity Analyst at Bancolombia. I leverage AI, data analysis, and modeling techniques to develop threat detection and analytics tools within Bancolombia’s cybersecurity framework.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
